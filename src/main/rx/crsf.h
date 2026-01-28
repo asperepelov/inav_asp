@@ -17,7 +17,7 @@
 
 #pragma once
 
-#define CRSF_BAUDRATE           420000
+#define CRSF_BAUDRATE           460800
 #define CRSF_PORT_OPTIONS       (SERIAL_STOPBITS_1 | SERIAL_PARITY_NO)
 #define CRSF_PORT_MODE          MODE_RXTX
 
